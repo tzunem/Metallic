@@ -18,7 +18,7 @@ function Footer() {
           </Link>
         </div>
         <div className="footermiddle">
-          <Obfuscate>© Metallic 2022 - </Obfuscate>{new Date().getFullYear()}
+          <Obfuscate> Lychee </Obfuscate>{new Date().getFullYear()}
         </div>
         <div>
           <a className="footersides link" href={discord}>
