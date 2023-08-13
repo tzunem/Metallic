@@ -2,7 +2,7 @@
   body[appearance="default"] {
     --text: white;
     --text-contrast: white;
-    --highlight: #004953;
+    --highlight: #cf0000;
     --background: #171717;
     --placeholder: #bdc1c6;
     --font-main: "Roboto";
@@ -16,7 +16,7 @@
   body[appearance="default"] {
     --text: black;
     --text-contrast: white;
-    --highlight: #004953;
+    --highlight: #cf0000;
     --background: #d8dee9;
     --placeholder: lightgray;
     --font-main: "Roboto";
@@ -29,7 +29,7 @@
 body[appearance="dark"] {
   --text: white;
   --text-contrast: white;
-  --highlight: #004953;
+  --highlight: #cf0000;
   --background: #171717;
   --placeholder: #bdc1c6;
   --font-main: "Roboto";
@@ -41,7 +41,7 @@ body[appearance="dark"] {
 body[appearance="light"] {
   --text: black;
   --text-contrast: white;
-  --highlight: #004953;
+  --highlight: #cf0000;
   --background: #d8dee9;
   --placeholder: lightgray;
   --font-main: "Roboto";
