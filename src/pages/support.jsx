@@ -46,9 +46,9 @@ function Support() {
         <div className="itemtitle">
           <Obfuscate>{t("email")}</Obfuscate>
         </div>
-        <a className="link" href="mailto:nebelung@mailfence.com">
+        <a className="link" href="mailto:tzunemain@gmail.com">
           <div className="itemtext">
-            <Obfuscate>nebelung@mailfence.com</Obfuscate>
+            <Obfuscate>tzunemain@gmail.com</Obfuscate>
           </div>
         </a>
         <div className="itemtitle">
